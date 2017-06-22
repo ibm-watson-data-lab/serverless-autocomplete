@@ -46,7 +46,8 @@ const binarySearch = function (array, v) {
 const main = function(opts) {
 
   // do binary search to find first element in the array that matches our search term
-  const ind = binarySearch(arr, opts.term.toLowerCase().trim());
+  opts.term = opts.term.toLowerCase();
+  const ind = binarySearch(arr, opts.term);
 
   // return value
   var retval = [];

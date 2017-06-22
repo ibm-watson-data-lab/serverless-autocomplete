@@ -12,7 +12,7 @@
     "colors": "^1.1.2"
   },
   "bin": {
-    "acsetup": "acsetup.js"
+    "acsetup": "bin/acsetup.js"
   },
   "devDependencies": {},
   "repository": {
