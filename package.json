@@ -1,0 +1,31 @@
+{
+  "name": "serverless-autocomplete",
+  "description": "Utility to convert a text file of strings into a autocomplete API powered by serverless OpenWhisk",
+  "version": "1.0.0",
+  "main": "autocomplete.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Glynn Bird <glynn.bird@gmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "colors": "^1.1.2"
+  },
+  "bin": {
+    "acsetup": "acsetup.js"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ibm-cds-labs/serverless-autocomplete.git"
+  },
+  "keywords": [
+    "openwhisk",
+    "autocomplete",
+    "serverless"
+  ],
+  "bugs": {
+    "url": "https://github.com/ibm-cds-labs/serverless-autocomplete/issues"
+  },
+  "homepage": "https://github.com/ibm-cds-labs/serverless-autocomplete#readme"
+ }
