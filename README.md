@@ -1,18 +1,22 @@
 # serverless-autocomplete
 
-This npm package is a utility to help create autocomplete microservices from text files. It creates the microservice with your data embedded and returns you the URL of the service which can use in your web forms. 
+[![Build Status](https://travis-ci.org/ibm-cds-labs/serverless-autocomplete.svg?branch=master)](https://travis-ci.org/ibm-cds-labs/serverless-autocomplete) [![npm version](https://badge.fury.io/js/serverless-autocomplete.svg)](https://badge.fury.io/js/serverless-autocomplete)
 
-It requires Node.js to run the `acsetup` utility and an [IBM OpenWhisk account](https://console.bluemix.net/openwhisk/?env_id=ibm:yp:us-south) to create the serverless microservices.
+This npm package is a command-line utility to help create autocomplete microservices from text files. It creates the microservice with your data embedded and returns you the URL of the service which you can use in your web forms. 
+
+Node.js is required to install the `acsetup` utility and an [IBM OpenWhisk account](https://console.bluemix.net/openwhisk/?env_id=ibm:yp:us-south) to create the serverless microservices.
 
 ## Installation
 
-This a Node.js utility so ensure you have [Node.js and npm installed](https://nodejs.org/en/download/). Then run:
+Ensure you have [Node.js and npm installed](https://nodejs.org/en/download/). Then run:
 
 ```
 npm install -g serverless-autocomplete
 ```
 
-Ensure you have [downloaded the OpenWhisk command-line utility](https://console.bluemix.net/openwhisk/learn/cli?env_id=ibm:yp:us-south) `wsk` and authenticated it with your Bluemix credentials.
+(`sudo` may also be required before this command in some cases).
+
+Make sure you have [downloaded the OpenWhisk command-line utility](https://console.bluemix.net/openwhisk/learn/cli?env_id=ibm:yp:us-south) `wsk` and have authenticated it with your IBM Bluemix credentials.
 
 ## Creating autocomplete services
 
@@ -54,7 +58,7 @@ Your service URL will look something like this:
 
 where `USER` is your Bluemix username + space  e.g. `sue@gmail.com_dev` and `INDEX` is the name of your index e.g. `uspresidents`.
 
-It requires a `term` parameter containing the string to be completed:
+To perform an autocomplete operation, the API call requires a `term` parameter containing the string to be completed:
 
     https://openwhisk.ng.bluemix.net/api/v1/web/USER/autocomplete/INDEX?term=Ge
 
@@ -64,13 +68,13 @@ It outputs a JSON array e.g.
 ["George H. W. Bush","George W. Bush","George Washington","Gerald Ford"]
 ```
 
-If no matches are found, you get an empty array:
+If no matches are found, an empty array is returned:
 
 ```js
 []
 ```
 
-The API is compatible with the [jQuery Autocomplete API](http://api.jqueryui.com/autocomplete/).
+The API is compatible with the [jQuery Autocomplete API](http://api.jqueryui.com/autocomplete/) but can be plumbed into any front-end code.
 
 
 
