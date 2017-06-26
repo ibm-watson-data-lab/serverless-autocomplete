@@ -70,6 +70,8 @@ If no matches are found, you get an empty array:
 []
 ```
 
+The API is compatible with the [jQuery Autocomplete API](http://api.jqueryui.com/autocomplete/).
+
 
 
 

@@ -1,5 +1,6 @@
 // load the autocomplete data
 const arr = require('./data.json');
+const MAX_RESULTS = 20;
 
 // find the in index in 'array' where the value 'v' is stored
 const binarySearch = function (array, v) {
@@ -57,17 +58,28 @@ const main = function(opts) {
 
     // iterate through the array pulling out all the matches
     for (var i = ind; i < arr.length; i++) { 
+
+      // if we are still finding matching strings
       if (arr[i].indexOf(opts.term) != 0) {
         break;
       }
+      
+      // extract the unmodifed string
       var j = arr[i].indexOf('*');
+
+      // and add it to the return value
       retval.push(arr[i].substr(j+1));
+
+      // don't let it exceed the max length
+      if (retval.length === MAX_RESULTS) {
+        break;
+      }
     }
   }
 
   // return web-enabled data
   return {
-    // CORS enabled
+    // CORS enabled - allow access from any web page
     headers: { 
       'Access-Control-Allow-Origin':'*',
       'Content-Type':'application/json'
