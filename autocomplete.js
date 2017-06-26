@@ -1,6 +1,4 @@
-// load the autocomplete data
-const arr = require('./data.json');
-const MAX_RESULTS = 20;
+var path = './data.json';
 
 // find the in index in 'array' where the value 'v' is stored
 const binarySearch = function (array, v) {
@@ -39,6 +37,24 @@ const binarySearch = function (array, v) {
   return mi;
 }
 
+// formulate response object that OpenWhisk expects
+const response = function(retval) {
+  return {
+    // CORS enabled - allow access from any web page
+    headers: { 
+      'Access-Control-Allow-Origin':'*',
+      'Content-Type':'application/json'
+    }, 
+    statusCode:200,
+    body: new Buffer(JSON.stringify(retval)).toString('base64')
+  };
+};
+
+// filter unwanted characters from strings
+const filterStr = function(str) {
+  return str.toLowerCase().replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g,"").trim();
+};
+
 // main openwhisk entry
 // opts.term = the term to autocomplete e.g. 'Mi';
 // Uses 'arr' an array of strings in this form:
@@ -46,10 +62,19 @@ const binarySearch = function (array, v) {
 //       "milton keynes*Milton Keynes" ]
 const main = function(opts) {
 
-  // do binary search to find first element in the array that matches our search term
-  opts.term = opts.term.toLowerCase();
-  const ind = binarySearch(arr, opts.term);
+  // missing term parameter
+  if (typeof opts.term === 'undefined') {
+    return response([]);
+  }
 
+  // load the autocomplete data
+  const arr = require(path);
+  const MAX_RESULTS = 20;
+
+  // do binary search to find first element in the array that matches our search term
+  opts.term = filterStr(opts.term);
+  const ind = binarySearch(arr, opts.term);
+  
   // return value
   var retval = [];
 
@@ -78,17 +103,17 @@ const main = function(opts) {
   }
 
   // return web-enabled data
-  return {
-    // CORS enabled - allow access from any web page
-    headers: { 
-      'Access-Control-Allow-Origin':'*',
-      'Content-Type':'application/json'
-    }, 
-    statusCode:200,
-    body: new Buffer(JSON.stringify(retval)).toString('base64')
-  };
+  return response(retval);
 };
 
-exports.main = main;
+// allow path to be changed for testing
+const setPath = function(p) {
+  path = p;
+};
+
+module.exports = {
+  main: main,
+  setPath: setPath
+}
 
 
