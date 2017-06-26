@@ -3,7 +3,8 @@ const fs = require('fs');
 const path = require('path');
 const file = require('../lib/file.js');
 const whisk = require('../lib/whisk.js');
-const tmpdir = path.join(__dirname, '..', 'tmp');
+const tmp = require('tmp');
+const tmpdir = tmp.dirSync().name;
 
 // title
 console.log('serverlessautocomplete'.blue.bold);
