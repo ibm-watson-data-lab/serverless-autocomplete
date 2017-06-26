@@ -3,22 +3,19 @@ Abelar Hightower
 Addam
 Addam Frey
 Addam Marbrand
-Addam of Hull
 Addam Osgrey
 Addam Velaryon
+Addam of Hull
 Addison Hill
 Aegon Blackfyre
 Aegon Bloodborn
-Aegon Frey
 Aegon Frey
 Aegon I
 Aegon II
 Aegon III
 Aegon IV
 Aegon Targaryen
-Aegon Targaryen
-Aegon Targaryen
-Aegon Targaryen
+Aegon V
 Aegon the Conqueror
 Aegon the Dragon
 Aegon the Dragonbane
@@ -30,7 +27,6 @@ Aegon the Unlucky
 Aegon the Unworthy
 Aegon the Usurper
 Aegon the Younger
-Aegon V
 Aegor Rivers
 Aelinor Penrose
 Aemma Arryn
@@ -39,12 +35,10 @@ Aemon Costayne
 Aemon Estermont
 Aemon Rivers
 Aemon Targaryen
-Aemon Targaryen
 Aemond One-Eye Aemond the Kinslayer
 Aemond Targaryen
 Aenys Frey
 Aenys I
-Aerion Targaryen
 Aerion Targaryen
 Aerion the Monstrous
 Aeron Damphair
@@ -94,7 +88,6 @@ Alvyn Sharp
 Alyce
 Alyce Graceford
 Alyn
-Alyn
 Alyn Ambrose
 Alyn Cockshaw
 Alyn Connington
@@ -102,16 +95,13 @@ Alyn Estermont
 Alyn Frey
 Alyn Haigh
 Alyn Hunt
-Alyn of Hull
 Alyn Stackspear
 Alyn Tarbeck
 Alyn Velaryon
-Alys Arryn
+Alyn of Hull
 Alys Arryn
 Alys Beesbury
 Alys Frey
-Alys Karstark
-Alys Karstark
 Alys Karstark
 Alysane Mormont
 Alysanne Bracken
@@ -188,7 +178,6 @@ Arwyn Oakheart
 Arya Flint
 Arya Horseface
 Arya Stark
-Arya Stark
 Arya Underfoot
 Arys Oakheart
 Asha Greyjoy
@@ -207,8 +196,6 @@ Bael
 Bael the Bard
 Baela Targaryen
 Baelish
-Baelon Targaryen
-Baelon Targaryen
 Baelon Targaryen
 Baelon the Brave
 Baelor Blacktyde
@@ -246,19 +233,17 @@ Barristan the Old
 Barsena
 Barsena Blackhair
 Barth
-Barth
 Barth Blacksword
 Barthogan Stark
 Bass
+Bastard Walder
 Bastard of Driftmark
 Bastard of Godsgrace
-Bastard Walder
 Bayard Norcross
 Bear
 Bearded Ben
 Beardless Dick
 Beardless Jon
-Becca
 Becca
 Becca the Baker
 Beck
@@ -270,13 +255,10 @@ Beldecar
 Belis
 Bella
 Bellegere Otherys
-Bellegere Otherys
 Bellena Hawick
 Bellonara Otherys
 Belwas
 Belwas the Strong
-Ben
-Ben
 Ben
 Ben Blackthumb
 Ben Bones
@@ -292,8 +274,6 @@ Benedict the Bold
 Benedict the Just
 Benfred Tallhart
 Benfrey Frey
-Benjen Stark
-Benjen Stark
 Benjen Stark
 Benjen the Bitter
 Benjen the Sweet
@@ -313,7 +293,6 @@ Beron Stark
 Bertram Beesbury
 Bess Bracken
 Bessa
-Bessa
 Beth Cassel
 Betha Blackwood
 Bethany
@@ -327,7 +306,6 @@ Betharios of Braavos
 Bets
 Bhakaz zo Loraq
 Bharbo
-Big Belly Ben
 Big Belly Ben
 Big Ben
 Big Boil
@@ -379,13 +357,6 @@ Bran the Broken
 Bran the Builder
 Brandon Norrey
 Brandon Stark
-Brandon Stark
-Brandon Stark
-Brandon Stark
-Brandon Stark
-Brandon Stark
-Brandon Stark
-Brandon Stark
 Brandon Tallhart
 Brandon the Bad
 Brandon the Burner
@@ -428,7 +399,6 @@ Buford Bulwer
 Bump
 Burton Crakehall
 Butterbumps
-Butterbumps
 Buu
 Byam Flint
 Byan Votyris
@@ -469,7 +439,6 @@ Cersei Frey
 Cersei Lannister
 Ceryse Hightower
 Cetheres
-characters:339
 Chataya
 Chayle
 Cheese-for-wits
@@ -479,7 +448,6 @@ Cheyk
 Chiggen
 Chiswyck
 Clarence Charlton
-Clarence Crabb
 Clarence Crabb
 Clarence the Short
 Clarent Crakehall
@@ -514,7 +482,6 @@ Corlos son of Caster
 Corlys Velaryon
 Cortnay Penrose
 Corwyn Corbray
-Corwyn Corbray
 Cosgrove
 Cossomo
 Cossomo The Conjurer
@@ -545,7 +512,6 @@ Dacey Mormont
 Dacks
 Daegon Shepherd
 Daella Targaryen
-Daella Targaryen
 Daemon Blackfyre
 Daemon II Blackfyre
 Daemon Sand
@@ -556,17 +522,15 @@ Daena the Defiant
 Daenaera Velaryon
 Daenerys Stormborn
 Daenerys Targaryen
-Daenerys Targaryen
 Daenora Targaryen
 Daeron I
 Daeron II
 Daeron Targaryen
-Daeron Targaryen
+Daeron Vaith
 Daeron the Daring
 Daeron the Drunken
 Daeron the Falseborn
 Daeron the Good
-Daeron Vaith
 Daeryssa
 Dafyn Vance
 Dagmer
@@ -575,17 +539,14 @@ Dagon Greyjoy
 Dagon Ironmaker
 Dagos Manwoody
 Dake
-Dake
 Dalbridge
 Dale Drumm
 Dale Seaworth
 Dale the Dread
 Dalla
-Dalla
 Damion Lannister
 Damon
 Damon Dance-for-Me
-Damon Lannister
 Damon Lannister
 Damon Marbrand
 Damon Paege
@@ -740,8 +701,8 @@ Eleanor Mooton
 Elenei
 Eleyna Westerling
 Elia Martell
-Elia of Dorne
 Elia Sand
+Elia of Dorne
 Elinor Tyrell
 Ella
 Ella Lannister
@@ -786,11 +747,9 @@ Erren Florent
 Errok
 Erryk
 Esgred
-Esgred
 Ethan Glover
 Euron Crow's Eye
 Euron Greyjoy
-Eustace
 Eustace
 Eustace Brune
 Eustace Hunter
@@ -834,8 +793,8 @@ Frynne
 Gage
 Galazza Galare
 Galbart Glover
-Galladon of Morne
 Galladon Tarth
+Galladon of Morne
 Gallard
 Galt
 Galtry the Green
@@ -846,13 +805,12 @@ Gareth Clifton
 Gareth the Grey
 Garigus
 Garin
-Garin
 Garin of the Orphans
 Garin the Great
 Gariss
 Garizon
-Garlan the Gallant
 Garlan Tyrell
+Garlan the Gallant
 Garrett Flowers
 Garrett Paege
 Garrison Prester
@@ -864,13 +822,13 @@ Garth Greenhand
 Garth Greyfeather
 Garth Greysteel
 Garth Hightower
+Garth Tyrell
+Garth XII Gardener
 Garth of Greenaway
 Garth of Oldtown
 Garth the Gardener
 Garth the Green
 Garth the Gross
-Garth Tyrell
-Garth XII Gardener
 Gascoyne
 Gascoyne of the Greenblood
 Gatehouse Ami
@@ -957,7 +915,6 @@ Grey Worm
 Greybeard
 Greydon Goodbrother
 Griffin King
-Griffin King
 Griffthe Mad King's Hand
 Grigg
 Grigg the Goat
@@ -1000,10 +957,8 @@ Gysella Goodbrother
 Haegon Blackfyre
 Haggo
 Haggon
-Haggon
 Hairy Hal
 Hake
-Hal
 Hal
 Hal the Hog
 Halder
@@ -1024,14 +979,12 @@ Harbert Paege
 Hard Hugh
 Hardstone
 Hareth
-Hareth
 Harghaz
 Harghaz the Dragonslayer
 Harghaz the Hero
 Harlan Grandison
 Harlan Hunter
 Harlan Tyrell
-Harle
 Harle
 Harle the Handsome
 Harle the Huntsman
@@ -1165,7 +1118,6 @@ Imry Florent
 Inkpots
 Iron Emmett
 Ironbelly
-Ironbelly
 Ironhand
 Ironrod
 Irri
@@ -1213,7 +1165,6 @@ Jenny of Oldstones
 Jeor Mormont
 Jeren
 Jeyne
-Jeyne
 Jeyne Arryn
 Jeyne Beesbury
 Jeyne Darry
@@ -1229,7 +1180,6 @@ Jeyne Rivers
 Jeyne Royce
 Jeyne Swann
 Jeyne Waters
-Jeyne Westerling
 Jeyne Westerling
 Jezhene
 Jhaqo
@@ -1272,7 +1222,6 @@ Jon Redfort
 Jon Snow
 Jon Stark
 Jon Umber
-Jon Umber
 Jon Vance
 Jon Waters
 Jon Wylde
@@ -1296,7 +1245,6 @@ Joseran
 Joseth
 Joseth Mallister
 Josmyn Peckledon
-Joss
 Joss
 Joss Stilwood
 Joss the Gloom
@@ -1336,8 +1284,8 @@ Kiera of Tyrosh
 Kindly Man
 King Cleaver
 King Maegor with Teats
-King of a Thousand Years
 King Scab
+King of a Thousand Years
 Kirby Pimm
 Kirth Vance
 Knight o' Pansies
@@ -1348,7 +1296,6 @@ Kraznys mo Nakloz
 Kromm
 Kurleket
 Kurz
-Kyle
 Kyle
 Kyle Condon
 Kyle Royce
@@ -1363,11 +1310,11 @@ Lady Lance
 Lady Meliana
 Lady Misery
 Lady Nym
-Lady of the Leaves
 Lady Red
 Lady Stoneheart
 Lady Tysha of House Silverfist
 Lady Val
+Lady of the Leaves
 Laena Velaryon
 Laenor Velaryon.
 Lambert Turnberry
@@ -1376,7 +1323,6 @@ Lancel Lannister
 Lancel V Lannister
 Lann
 Lann the Clever
-Lanna
 Lanna
 Lanna Lannister
 Lanny
@@ -1393,9 +1339,7 @@ Leana Frey
 Leathers
 Left Hand Lew
 Left or \Right\
-Left or \Right\
 Left-Hand Lucas
-Lem
 Lem
 Lem Lemoncloak
 Lenn
@@ -1406,7 +1350,6 @@ Leo Blackbar
 Leo Lefford
 Leo Longthorn
 Leo Tyrell
-Leo Tyrell
 Leobald Tallhart
 Leona Tyrell
 Leona Woolfield
@@ -1415,7 +1358,6 @@ Leonette Fossoway
 Leslyn Haigh
 Lester
 Lester Morrigen
-Lew
 Lew
 Lewis Lanster
 Lewyn Martell
@@ -1431,7 +1373,6 @@ Liane Vance
 Light of the North
 Likely Luke
 Lister
-Little bird
 Little Grandfather
 Little Lenwood Tawney
 Little Lew
@@ -1439,6 +1380,7 @@ Little Lucos
 Little Matt
 Little Narbo
 Little Walder
+Little bird
 Littlefinger
 Lollys Lackwit
 Lollys Stokeworth
@@ -1466,10 +1408,8 @@ Lord Flea Bottom
 Lord Hammer
 Lord Lamprey
 Lord Lard
-Lord o' Bones
 Lord Oaf
 Lord Oakenfist
-Lord of Bones
 Lord Pea Pord
 Lord Pig
 Lord Puff Fish
@@ -1480,6 +1420,8 @@ Lord Too-Fat-to-Sit-a-Horse
 Lord Tywin's Bane
 Lord Tywin's Doom
 Lord Waters
+Lord o' Bones
+Lord of Bones
 Loree
 Loren I Lannister
 Loren the Last
@@ -1512,8 +1454,8 @@ Lucas Inchfield
 Lucas Lothston
 Lucas Nayland
 Lucas Roote
-Lucas the Longinch
 Lucas Tyrell
+Lucas the Longinch
 Luceon Frey
 Lucias Vypren
 Lucifer Hardy
@@ -1523,14 +1465,11 @@ Luco Prestayn
 Lucos
 Lucos Chyttering
 Luke
-Luke
 Luke of Longtown
 Lum
 Lump
 Lumpyface
 Lumpyhead
-Luthor Tyrell
-Luthor Tyrell
 Luthor Tyrell
 Luton
 Luwin
@@ -1557,7 +1496,6 @@ Lyonel Frey
 Lyonel Selmy
 Lyonel Strong
 Lyonel Tyrell
-Lyonel Tyrell
 Lyra Mormont
 Lysa Arryn
 Lysa Meadows
@@ -1579,7 +1517,6 @@ Maelor Targaryen
 Maelys I Blackfyre
 Maelys the Monstrous
 Maerie
-Maerie
 Maerie the Whore
 Maester
 Maester Aemon
@@ -1596,7 +1533,6 @@ Mallador Locke
 Malleon
 Malliard
 Mallor
-Mallor
 Mallor the Dornishman
 Malwyn Frey
 Mance Rayder
@@ -1606,8 +1542,8 @@ Manfred Lothston
 Manfred Swann
 Manfrey Martell
 Manfryd Lothston
-Manfryd o' the Black Hood
 Manfryd Yew
+Manfryd o' the Black Hood
 Marei
 Margaery Tyrell
 Marghaz zo Loraq
@@ -1701,7 +1637,6 @@ Merrett Muttonhead
 Merrit
 Merrit o' Moontown
 Merry
-Merry
 Merry Frey
 Merry Meg
 Meryn Trant
@@ -1745,7 +1680,6 @@ Morros Slynt
 Mors Crowfood
 Mors Manwoody
 Mors Martell
-Mors Martell
 Mors Umber
 Mortimer Boggs
 Morton Waynwood
@@ -1756,25 +1690,20 @@ Mother Mercilesr
 Mother Mole
 Mother of Dragons
 Mudge
-Mudge
-Mudge
 Mullin
 Mully
 Mummer's Monkey
 Munciter
 Munda
 Murch
-Murch
 Murenmure
 Murmison
-Mushroom
 Mushroom
 Muttering Bill
 Mya Stone
 Mycah
 Mychel Redfort
 Mylenda Caron
-Myles
 Myles
 Myles Manwoody
 Myles Mooton
@@ -1795,8 +1724,6 @@ Nail
 Nan
 Narbert
 Narbo
-Ned
-Ned
 Ned
 Ned Stark's Bastard
 Ned Woods
@@ -1821,9 +1748,8 @@ Nute
 Nute the Barber
 Nymella Toland
 Nymeria
-Nymeria
-Nymeria of the Rhoyne
 Nymeria Sand
+Nymeria of the Rhoyne
 Nymos
 Nysterica
 Obara Sand
@@ -1843,7 +1769,6 @@ Old Pate
 Old Pomegranate
 Old Ser
 Old Ser Rodrik
-Old Tattersalt
 Old Tattersalt
 Olene Tyrell
 Olenna Redwyne
@@ -1867,10 +1792,10 @@ Orivel
 Orivel the Open-Handed
 Orland of Oldtown
 Ormond
-Ormond of Oldtown
 Ormond Osgrey
 Ormond Westerling
 Ormond Yronwood
+Ormond of Oldtown
 Ormund Baratheon
 Ormund Wylde
 Oro Tendyris
@@ -1901,7 +1826,6 @@ Otto Hightower
 Ottomore
 Ottyn Wythers
 Owen
-Owen
 Owen Inchfield
 Owen Norrey
 Owen the Oaf
@@ -1911,12 +1835,6 @@ Parmen Crane
 Parmen the Purple
 Patches
 Patchface
-Pate
-Pate
-Pate
-Pate
-Pate
-Pate
 Pate
 Pate of Lancewood
 Pate of Mory
@@ -1981,8 +1899,6 @@ Pyp
 Pypar
 Qalen
 Qarl
-Qarl
-Qarl
 Qarl Correy
 Qarl Kenning
 Qarl Quickaxe
@@ -2030,24 +1946,20 @@ Rafford
 Ragnor Pyke
 Ragwyle
 Rainbow Knight
-Rainbow Knight
 Rakharo
 Ralf
-Ralf
 Ralf Kenning
-Ralf of Lordsport
 Ralf Stonehouse
+Ralf of Lordsport
 Ralf the Limper
 Ralf the Shepherd
 Ralph Buckler
 Ramsay Bolton  The Bastard of Bolton  The Bastard of the Dreadfort  Reek  Red Helm  Monster
 Ramsay Snow
 Randa
-Randa
 Randyll Tarly
 Rast
 Rat
-Rat Cook
 Rat Cook
 Rattleshirt
 Ravella Swann
@@ -2065,7 +1977,6 @@ Raynard Ruttiger
 Red Alyn
 Red Alyn of the Rosewood
 Red Lamb
-Red Lamb
 Red Lester
 Red Oarsman
 Red Ralf Stonehouse
@@ -2077,7 +1988,6 @@ Red Walder
 Redgrass Jenny
 Redtusk
 Redwyn
-Reek
 Reek
 Regenard Estren
 Renfred Rykker
@@ -2095,13 +2005,9 @@ Rhaegel Targaryen
 Rhaego
 Rhaella Targaryen
 Rhaelle Targaryen
+Rhaena Targaryen
 Rhaena of Pentos
-Rhaena Targaryen
-Rhaena Targaryen
-Rhaena Targaryen
 Rhaenyra Targaryen
-Rhaenys Targaryen
-Rhaenys Targaryen
 Rhaenys Targaryen
 Rhea Florent
 Rhea Royce
@@ -2116,7 +2022,6 @@ Richard Morrigen
 Rickard Karstark
 Rickard Ryswell
 Rickard Stark
-Rickard Stark
 Rickard Thorne
 Rickard Tyrell
 Rickard Wylde
@@ -2130,9 +2035,7 @@ Robb Stark
 Robert Arryn
 Robert Ashford
 Robert Brax
-Robert Brax
 Robert Flowers
-Robert Frey
 Robert Frey
 Robert I Baratheon
 Robert Paege
@@ -2156,19 +2059,16 @@ Rodrik Greyjoy
 Rodrik Harlaw
 Rodrik Ryswell
 Rodrik Stark
-Rodrik Stark
 Rodwell Stark
 Roelle
 Roger Hogg
-Roger of Pennytree
 Roger Ryswell
+Roger of Pennytree
 Roggo
 Rohanne
 Rohanne Webber
 Roland Crakehall
-Roland Crakehall
 Rolder
-Rolfe
 Rolfe
 Rollam Westerling
 Rolland Darklyn
@@ -2181,13 +2081,12 @@ Rolph Spicer
 Romny Weaver
 Ronald Connington
 Ronald Storm
-Ronald the Bad
 Ronald Vance
+Ronald the Bad
 Ronel Rivers
 Ronnel Harclay
 Ronnel Stout
 Ronnet Connington
-Roone
 Roone
 Roose Bolton
 Roose Ryswell
@@ -2206,7 +2105,6 @@ Royce Coldwater
 Rubert Brax
 Rudge
 Rufus Leek
-Rugen
 Rugen
 Runcel Hightower
 Runciter
@@ -2319,8 +2217,8 @@ Silvertongue
 Simon Leygood
 Simon Staunton
 Simon Toyne
-Skahaz mo Kandaq
 Skahaz Shavepate
+Skahaz mo Kandaq
 Skinner
 Skittrick
 Sky Blue Su
@@ -2337,7 +2235,6 @@ Soren
 Sour Alyn
 Spare Boot
 Spotted Cat
-Spotted Pate
 Spotted Pate
 Spotted Pate of Maidenpool
 Spotted Sylva
@@ -2362,8 +2259,8 @@ Steffon Hollard
 Steffon Seaworth
 Steffon Stackspear
 Steffon Swyft
-Steffon the Sweet
 Steffon Varner
+Steffon the Sweet
 Stevron Frey
 Stickboy
 Stiv
@@ -2412,7 +2309,6 @@ Tanda Stokeworth
 Tanselle
 Tanselle Too-Tall
 Tansy
-Tansy
 Tanton Fossoway
 Tarber
 Tarle
@@ -2427,17 +2323,14 @@ Terro
 The 998th Lord Commander of the Night's Watch
 The Anvil
 The Archer
-the Bastard of Bronzegate
 The Bastard of Cornfield
 The Bastard of Nightsong
 The Bastard of Winterfell
 The Beggar King
 The Betrayer
-The Betrayer
 The Black Bastard of the Wall
 The Black Centaur
 The Black Dragon
-the Black Pearl of Braavos
 The Black Shepherd
 The Black Singer Lover
 The Black Swan
@@ -2447,8 +2340,6 @@ The Blind Girh
 The Bloody Maester
 The Bone Hand
 The Boy King
-The Boy King
-The boyman
 The Braavosi
 The Bright Prince
 The Broken King
@@ -2461,24 +2352,20 @@ The Conciliator
 The Cougher
 The Crow-Come-Over
 The Damphair
-The dancer
 The Darling of the Vale
 The Dragon Prince
 The Dragon Queen
 The Dragonrider
 The Drumm
 The Drunken Giant
-the Eater of Eyes
 The Ember
 The Eunuch
 The Even Younger Prince
-the Evenstar
 The Fat Flower
 The Fat Man
 The First Knight
 The Fool of Florent
 The Gallows Knight
-The goat Goat of Harrenhal The Crippler The Qohorik
 The Godsgrief
 The Great Dog
 The Great Lion of the Rock
@@ -2501,14 +2388,14 @@ The Huntsman
 The Imp
 The Iron Captain
 The Kindly Man
+The King Who Bore the Sword
+The King Who Knelt
 The King at the Wall
 The King in Highgarden
 The King in the Narrow Sea
 The King in the South
 The King of Dragonstone
 The King of the Painted Table
-The King Who Bore the Sword
-The King Who Knelt
 The King's Red Shadow
 The Kingslayer
 The Knight of Flowers
@@ -2528,18 +2415,11 @@ The Laughing Wolf
 The Leech Lord
 The Lemon
 The Liberator
-The lightning lord
 The Lion of Lannister
-The Lion of Lannister
-the Little Bee
-the Little Lion
-the little monsterthe abomination
 The Little Queen
 The Little Rose
 The Lord of Cheese
 The Lord of Corpses
-The lord of cows
-The mace-and-dagger Hand
 The Mad Dog of Saltpans
 The Mad King
 The Mad King's daughter
@@ -2550,7 +2430,6 @@ The Maid of Tarth
 The Maiden of the Vale
 The Mance
 The Manticore
-The mastiff
 The Merlyn
 The Moonshadow
 The Most Fair
@@ -2566,26 +2445,20 @@ The Old Lion
 The Old Man of the North
 The Old Ox
 The Pale Griffin
-the Pennylover
 The Pretender
-The prince who came too late
 The Prince Who Thought He Was a Dragon
 The Prince Who Was An Eggg
-The Queen of Thorns
 The Queen Who Never Was
+The Queen of Thorns
 The Quiet Wolf
-the rabbit keeper
 The Reader
 The Realm's Delight
-the Red Crab
 The Red Priestess
 The Red Viper
 The Red Widow
-The red wizard
 The Red Woman
 The Rogue Prince
 The Sea Snake
-The serpent's whore
 The Shavepate
 The She-Bear
 The She-Wolf
@@ -2602,10 +2475,7 @@ The Sparr
 The Spider
 The Spring King
 The Spring Prince
-The stallion who mounts the world
 The Stonehouse
-The three-eyed crow
-the Tickler
 The Tickler
 The Titan's Bastard
 The Toothless Lion
@@ -2620,16 +2490,13 @@ The Weeper
 The Weeping Man
 The White Bull
 The White Owl
-the White Worm
 The Whore of Dragonstone
 The Whoremonger King
 The Wild Wolf
-The wildling princess
 The Winged Wolf
 The Wise
 The Wolf Maid
 The Wolf Pup
-The woods witch
 The Young Dragon
 The Young Falcon
 The Young King
@@ -2637,11 +2504,25 @@ The Young Lion
 The Young Prince
 The Young She-Bear
 The Young Usurper
+The boyman
+The dancer
+The goat Goat of Harrenhal The Crippler The Qohorik
+The lightning lord
+The lord of cows
+The mace-and-dagger Hand
+The mastiff
+The prince who came too late
+The red wizard
+The serpent's whore
+The stallion who mounts the world
+The three-eyed crow
+The wildling princess
+The woods witch
 Theo Frey
 Theo Wull
 Theobald
-Theodan the True
 Theodan Wells
+Theodan the True
 Theodore Tyrell
 Theomar Smallwood
 Theomore Harlaw
@@ -2679,13 +2560,13 @@ Toefinger
 Togg Joth
 Tom Costayne
 Tom O'Sevens
-Tom of Sevenstreams
 Tom Sevenstrings
+Tom of Sevenstreams
+TomToo
 Tomard
 Tommard Heddle
 Tommen Baratheon
 Tommen Costayne
-TomToo
 Torbert
 Toregg
 Toregg the Tall
@@ -2713,13 +2594,13 @@ Tristan Mudd
 Tristan Ryger
 Tristifer Botley
 Tristifer IV Mudd
-Tristifer the Last
 Tristifer V
+Tristifer the Last
 Tristimun
 Triston
 Triston Farwynd
-Triston of Tally Hill
 Triston Sunderland
+Triston of Tally Hill
 True Warden of the East
 Trystane Martell
 Tuffleberry
@@ -2754,14 +2635,13 @@ Tytos Brax
 Tytos Frey
 Tytos Lannister
 Tywin Frey
-Tywin Frey
 Tywin Lannister
 Ulf
+Ulf White
 Ulf son of Umar
 Ulf the Ill
 Ulf the Sot
 Ulf the White
-Ulf White
 Uller
 Ulmer
 Ulmer of the Kingswood
@@ -2788,9 +2668,9 @@ Urswyck
 Urswyck the Faithful
 Urzen
 Utherydes Wayn
-Uthor of the High Tower
 Uthor Tollett
 Uthor Underleaf
+Uthor of the High Tower
 Utt
 Vaellyn
 Vaemond Velaryon
@@ -2822,18 +2702,9 @@ Vylarr
 Vyman
 Walda Bolton
 Walda Frey
-Walda Frey
-Walda Frey
-Walda Frey
-Walda Frey
-Walda Rivers
 Walda Rivers
 Walder
 Walder Brax
-Walder Frey
-Walder Frey
-Walder Frey
-Walder Frey
 Walder Frey
 Walder Goodbrook
 Walder Haigh
@@ -2855,12 +2726,6 @@ Warrior of Fire
 Warrior of Light
 Warryn Beesbury
 Wat
-Wat
-Wat
-Wat
-Wat
-Wat
-Wat
 Wat Barleycorn
 Wate
 Watt
@@ -2869,7 +2734,6 @@ Watty
 Watty the Miller
 Waymar Royce
 Wayn
-Weasel
 Weasel
 Weese
 Wenda
@@ -2890,13 +2754,6 @@ Whoresbane Umber
 Wilbert
 Wilbert Osgrey
 Wild Wyl
-Will
-Will
-Will
-Will
-Will
-Will
-Will
 Will
 Will Humble
 Will the Stork
@@ -2928,7 +2785,6 @@ Wulfe One-Ear
 Wun Weg Wun Dar Wun
 Wun Wun
 Wyl
-Wyl
 Wyl Waynwood
 Wylis Manderly
 Wylla
@@ -2941,8 +2797,8 @@ Xaro Xhoan Daxos
 Xhondo
 Yandry
 Yaya
-Yellow cloak
 Yellow Dick
+Yellow cloak
 Ygon
 Ygon Farwynd
 Ygon Oldfather
@@ -2971,3 +2827,16 @@ Zhoe Blanetree
 Zia Frey
 Zollo
 Zollo the Fat
+characters:339
+the Bastard of Bronzegate
+the Black Pearl of Braavos
+the Eater of Eyes
+the Evenstar
+the Little Bee
+the Little Lion
+the Pennylover
+the Red Crab
+the Tickler
+the White Worm
+the little monsterthe abomination
+the rabbit keeper
