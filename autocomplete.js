@@ -42,7 +42,6 @@ const response = function(retval) {
   return {
     // CORS enabled - allow access from any web page
     headers: { 
-      'Access-Control-Allow-Origin':'*',
       'Content-Type':'application/json'
     }, 
     statusCode:200,
