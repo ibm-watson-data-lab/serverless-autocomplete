@@ -22,12 +22,6 @@ describe('autocompelete tests', function() {
     assert.equal(r.statusCode, 200);
   });
 
-  it('should enable CORS', function() {
-    var r = ac.main({term: 'mi'});
-    assert(typeof r.headers === 'object');
-    assert.equal(r.headers['Access-Control-Allow-Origin'], '*');
-  });
-
   it('should have correct content-type', function() {
     var r = ac.main({term: 'mi'});
     assert(typeof r.headers === 'object');
