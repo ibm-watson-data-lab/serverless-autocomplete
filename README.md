@@ -1,6 +1,6 @@
 # serverless-autocomplete
 
-[![Build Status](https://travis-ci.org/ibm-cds-labs/serverless-autocomplete.svg?branch=master)](https://travis-ci.org/ibm-cds-labs/serverless-autocomplete) [![npm version](https://badge.fury.io/js/serverless-autocomplete.svg)](https://badge.fury.io/js/serverless-autocomplete)
+[![Build Status](https://travis-ci.org/ibm-watson-data-lab/serverless-autocomplete.svg?branch=master)](https://travis-ci.org/ibm-watson-data-lab/serverless-autocomplete) [![npm version](https://badge.fury.io/js/serverless-autocomplete.svg)](https://badge.fury.io/js/serverless-autocomplete)
 
 This npm package is a command-line utility to help create autocomplete microservices from text files. It creates the microservice with your data embedded and returns you the URL of the service which you can use in your web forms. 
 
@@ -42,7 +42,7 @@ It will return you:
 - an example `curl` statement
 - an HTML snippet that shows your service embedded into a web page
 
-If you don't have data to hand then [we've got you covered](https://github.com/ibm-cds-labs/serverless-autocomplete/tree/master/data).
+If you don't have data to hand then [we've got you covered](https://github.com/ibm-watson-data-lab/serverless-autocomplete/tree/master/data).
 
 ```sh
 acsetup countries.txt
