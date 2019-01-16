@@ -16,7 +16,7 @@ npm install -g serverless-autocomplete
 
 (`sudo` may also be required before this command in some cases).
 
-Make sure you have [downloaded the OpenWhisk command-line utility](https://console.bluemix.net/openwhisk/learn/cli) `bx wsk` and have authenticated it with your IBM Bluemix credentials.
+Make sure you have [downloaded the OpenWhisk command-line utility](https://console.bluemix.net/docs/openwhisk/bluemix_cli.html#cloudfunctions_cli) `ibmcloud fn` and have authenticated it with your IBM Cloud credentials.
 
 ## Creating autocomplete services
 
